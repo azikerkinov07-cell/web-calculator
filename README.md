@@ -18,18 +18,6 @@ A simple calculator built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Project Structure
-
-```
-calculator/
-├── index.html
-├── style.css
-├── calculate.js
-├── keyboard.js
-├── theme.js
-└── README.md
-```
-
 ## How to Run
 
 1. Download or clone the repository.
@@ -37,4 +25,4 @@ calculator/
 
 ## Author
 
-Mikhail
+azikerkinov07-cell
