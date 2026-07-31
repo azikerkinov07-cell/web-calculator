@@ -5,3 +5,7 @@ input {
     border-radius: 4px;
     margin-bottom: 10px;
 }
+
+input:hover {
+    background-color: #f0f0f0;
+}
