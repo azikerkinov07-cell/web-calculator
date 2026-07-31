@@ -1,0 +1,14 @@
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# Node.js (если когда-нибудь добавишь npm)
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
